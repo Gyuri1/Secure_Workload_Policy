@@ -13,9 +13,9 @@ Please update:
 
 #How to use
 
-`python Get_Policy.py >policy.json`
+`python Get_Policy.py >policy_out.json`
 
-You can modify the policy.json file according to Your needs.
+You can modify the policy_out.json file according to Your needs and save it into policy_in.json.
 
-`python Post_Policy.py policy.json`
+`python Post_Policy.py policy_in.json`
 
