@@ -1,0 +1,8 @@
+{
+"version": "v1",
+"rank" : "DEFAULT",
+"policy_action" : "ALLOW",
+"priority" : 66,
+"consumer_filter_id" : "608a9690755f0202b0150d67",
+"provider_filter_id" : "608a9690755f0202b0150d67"
+}
