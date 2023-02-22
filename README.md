@@ -5,6 +5,6 @@ Secure Workload Policy import-export examples.
 
 Please update:
 
-1. credential.json file 
-2. API_ENDPOINT variable
-3. searchFilter variable
+1. credentials.json file  -> based on Your own API credentials
+2. API_ENDPOINT variable  -> based on Your own Secure Workload FQDN or IP address
+3. searchFilter variable  -> based on Your own scope 
