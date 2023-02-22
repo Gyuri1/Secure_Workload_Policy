@@ -14,9 +14,9 @@ restclient = RestClient(API_ENDPOINT, credentials_file='credentials.json', verif
 resp=restclient.get('/applications')
 json_resp = json.loads(resp.text)
 json_formatted_str = json.dumps(json_resp, indent=2)
-print(json_formatted_str)
+#print(json_formatted_str)
 app_id=json_resp[0]['id']
-print("App_id:",app_id)
+#print("App_id:",app_id)
 
 resp=restclient.get('/applications/'+app_id+'/policies')
 json_resp = json.loads(resp.text)
