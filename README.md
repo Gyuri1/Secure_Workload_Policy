@@ -13,9 +13,14 @@ Please update:
 
 # How to install:
 
-Piease install `tetpyclient` python package, like this way:  
+Piease  
+
+
+1. install `tetpyclient` python package, like this way:  
 
 `pip install tetpyclient`
+
+2. copy this repo files into a working directory.
 
 
 # How to use:
