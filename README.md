@@ -20,7 +20,7 @@ Piease
 
 `pip install tetpyclient`
 
-2. copy this repo files into a working directory.
+2. copy this repo's files into a working directory.
 
 
 # How to use:
