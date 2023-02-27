@@ -18,7 +18,7 @@ Piease
 
 1. install `tetpyclient` python package, like this way:  
 
-`pip install tetpyclient`
+   `pip install tetpyclient`  
 
 2. copy this repo's files into a working directory.
 
