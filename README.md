@@ -11,6 +11,13 @@ Please update:
 
 
 
+# How to install:
+
+Piease install `tetpyclient` python package, like this way:  
+
+`pip install tetpyclient`
+
+
 # How to use:
 
 `python Get_Policy.py >policy_out.json`
